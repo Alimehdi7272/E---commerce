@@ -69,7 +69,7 @@ node --version
 npm --version
 Installation and Setup
 1. Clone the repository (replace the placeholder with your GitHub repository URL):
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/Alimehdi7272/E---commerce
 2. Move into the project folder (use the actual folder name in your repository):
    cd "Airbnb - 1"
 3. Install dependencies:
